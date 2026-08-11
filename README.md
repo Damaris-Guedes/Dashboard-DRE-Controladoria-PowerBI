@@ -1,6 +1,6 @@
 # Dashboard de DRE Interativo & Controladoria Financeira
 
-![DRE Dashboard](./dashboard_dre.jpg) 
+![DRE Dashboard Interativo](./dashboard-demo.gif) 
 
 ## Visão Geral do Projeto
 Este projeto consiste em uma solução completa de **Business Intelligence e Controladoria** para análise de Demonstrações do Resultado do Exercício (DRE). O painel foi projetado para permitir que executivos e gestores financeiros identifiquem rapidamente gargalos operacionais, margens por produto e centros de custo com desempenho negativo.
